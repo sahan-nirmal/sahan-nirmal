@@ -14,8 +14,6 @@
 
 - 💬 Ask me about *java, c#, c, html, javascript,css*
 
-- 📫 How to reach me *sahannirmal061@gmail.com*
-
 - ⚡ Fun fact *I think I am funny*
 
 </td>
