@@ -1,6 +1,8 @@
 ### Hi there 👋
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anta&pause=1000&color=FFFD25&random=false&width=435&lines=Hi%2C+++Welcome+to+my+GitHub+page!;I'm.....;Undergraduate+Student+Software+development;Game+Developer;Web+Developer;Bot+Developer" alt="Typing SVG" /></a>
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Sahan Nirmal</h1>
