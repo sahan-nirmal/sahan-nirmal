@@ -1,5 +1,4 @@
 ### Hi there 👋 
-<img align="right" width=130px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anta&pause=1000&color=FFFD25&random=false&width=435&lines=Hi%2C+++Welcome+to+my+GitHub+page!;I'm.....;Undergraduate+Student+Software+development;Game+Developer;Web+Developer;Bot+Developer" alt="Typing SVG" /></a>
 
 
