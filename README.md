@@ -11,7 +11,7 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />  
+<img align="right" width=150px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />  
 - 🌱 I’m currently learning *MERN*
 
 - 🧑‍🎓 I’m an Undergraduate at *NIBM*
